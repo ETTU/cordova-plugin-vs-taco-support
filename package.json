@@ -4,7 +4,7 @@
   "description": "Visual Studio Tools for Apache Cordova CLI Support Plugin",
   "repository": {
       "type": "git",
-      "url": "https://github.com/Microsoft/cordova-plugin-vs-taco-support.git"
+      "url": "https://github.com/ETTU/cordova-plugin-vs-taco-support.git"
   },
   "keywords": [
     "cordova",
